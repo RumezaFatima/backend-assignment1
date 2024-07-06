@@ -1,9 +1,5 @@
 <?php
-/**
- * Project: yii2-blog for internal using
- * Author: akiraz2
- * Copyright (c) 2018.
- */
+
 
 use akiraz2\blog\Module;
 use yii\helpers\Html;
